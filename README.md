@@ -1,6 +1,3 @@
-# mugen-soberana
-joguinho de luta comunista pow pow
-
 # Roadmap:
 ## Tecnico
 - Menu principal
